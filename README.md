@@ -11,9 +11,7 @@
 
 - 🌱 I’m currently learning **Full stack Development**
 
-- 👯 I’m looking to collaborate on **collaborate on Full stack web development**
-
-- 🤝 I’m looking for help with **open source projects**
+- 🤝 I’m looking to collaborate on **open source projects**
 
 - 💬 Ask me about **Front End Technologies**
 
