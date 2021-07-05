@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Dudhal</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 style="margin-right:auto;margin-left:auto;">A passionate frontend developer</h3>
 
 <img align="left" src="https://drive.google.com/uc?id=1m5SmE8VyelpiKqp5tH2DnGPs-4xRuUGI" alt="Code" width="400" height="400">
 
